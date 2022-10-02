@@ -14,7 +14,7 @@ function renderPosts(boston, container) {
 function renderTopSalaries(boston, container) {
   // Step 1 solution
   let people = boston.data;
-  let topSalaries = people.sort((a, b) => b[11] - a[11]).slice(0, 5);
+  let topSalaries = people.sort((a, b) => b[11] - a[11]).slice(0, 5);//降序排序,从高到低
   const len = topSalaries.length;
   let html = '';
   for (let i = 0; i < len; i++) {

@@ -6,4 +6,4 @@ to position the new pacman image and add it to the "game" div. It is then added 
 You also need to make each pacman bounce off any wall it hits. 
 Start by getting at least one pacman positioned and viewable. 
 
- https://zyf531.zhang.github.io
+https://github.com/zyf531/zhang.github.io/tree/main/PacMen%20Exercise-%E5%90%83%E8%B1%86%E4%BA%BA%E7%BB%83%E4%B9%A0
